@@ -1,0 +1,6 @@
+framework module Pods_LogInOut {
+  umbrella header "Pods-LogInOut-umbrella.h"
+
+  export *
+  module * { export * }
+}
